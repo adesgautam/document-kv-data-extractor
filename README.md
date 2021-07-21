@@ -1,3 +1,8 @@
+
+### Train the SMGR model on documents using this repo.
+
+#### Cloned the repo from [https://github.com/open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)
+
 <div align="center">
   <img src="resources/mmocr-logo.png" width="500px"/>
 </div>
