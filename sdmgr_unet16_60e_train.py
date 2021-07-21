@@ -26,7 +26,7 @@ test_pipeline = [
 ]
 
 dataset_type = 'KIEDataset'
-data_root = 'data'
+data_root = 'aug_data'
 
 loader = dict(
     type='HardDiskLoader',
